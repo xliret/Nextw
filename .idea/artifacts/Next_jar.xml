@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Next:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Next_jar</output-path>
+    <root id="archive" name="Next.jar">
+      <element id="module-output" name="Next" />
+    </root>
+  </artifact>
+</component>
