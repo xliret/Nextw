@@ -25,7 +25,7 @@ public class ViciousTower {
     Boss boss22;
     Boss boss33;
     Boss boss44;
-
+//const
     public ViciousTower() {
         boss11 = new Boss("Remiko", 20, 20);
         boss22 = new Boss("Ranzero", 100, 40);
@@ -451,7 +451,12 @@ public class ViciousTower {
     }
 
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         new ViciousTower();
+
+
+
     }
+
 }
