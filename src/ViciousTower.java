@@ -358,7 +358,7 @@ public class ViciousTower {
         }
 
     }
-
+//antonf
     public void damageDone2() {
         if (boss22.attack > defences) {
             hp = hp - boss22.attack;
